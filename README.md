@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geckbags
 - 👀 I’m interested in learning how to use github to collaborate with others
-- 🌱 I’m currently learning python, c++ and java
+- 🌱 I’m currently learning python, c++, bash and java
 - 💞️ I’m looking to collaborate on maybe a discord bot but im not sure yet
 - 📫 How to reach me DM on discord @geckbagss
 
